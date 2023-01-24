@@ -11,7 +11,6 @@ class HomePage extends StatelessWidget {
     // ... your room options
   );
 
-  // AccessToken token = new AccessToken("apiKey", "secret");
 
   @override
   Widget build(BuildContext context) {
